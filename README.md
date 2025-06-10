@@ -29,3 +29,15 @@ pip install -r requirements.txt
 **Focus:**
 - Manual and `nn.Sequential` neural network implementation in PyTorch
 - Introduction to backpropagation and training loops
+
+### [Week 1](./Week1/)
+**Topic:** MultiArmedBandits and Q Learning  
+**Focus:**
+- Epsilon Greedy (exploration vs exploitation) and Upper confidence bounds
+- Q Learning and expected rewards stored in tabulature something
+
+### [Week 2](./Week2/)
+**Topic:** Deep Q Networks  
+**Focus:**
+- Learning how Q Learning fails on large state spaces and how to represent them
+- Creating reward functions for different environments
